@@ -27,7 +27,7 @@ This Power BI project provides an end-to-end performance analysis of marketing c
 ![Channel](Channel.png)
 
 ### 3. Key Findings
-![Key Findings](Key Findings.png)
+![Key Findings](KeyFindings.png)
 
 ### 4. Strategic Recommendations
 ![Recommendations](Recommendations.png)
